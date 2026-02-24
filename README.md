@@ -4,6 +4,11 @@ Contributors: Harshita Keerthipati, Thanishkaa Saravanane, Menaka Aron, Tejaswi 
 
 An iOS app that helps visually impaired users find objects in their environment. Point your camera around the room, ask for an item by voice or text, and Findar tells you where it is — with spoken direction cues, distance estimates, and a 3D AR marker guiding you to it.
 
+## Demo
+
+![Object detection](detection.gif)
+![AR marker](ar-marker.gif)
+
 ## Features
 
 - **Passive scanning** — the app continuously indexes objects in view using on-device YOLOv8n, no user interaction required
