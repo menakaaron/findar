@@ -1,4 +1,4 @@
-# Findar — AI Object Finder for the Visually Impaired (2026 WINFO Hackathon: Best Product Track)
+# Findar — AI Object Finder for the Visually Impaired (2026 WINFO Hackathon)
 
 Contributors: Harshita Keerthipati, Thanishkaa Saravanane, Menaka Aron, Tejaswi Erattu
 
